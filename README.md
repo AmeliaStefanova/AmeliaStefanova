@@ -16,7 +16,7 @@ const amelia: Developer = {
         databases: ["To be added"]
     },
     education: ["SoftUni"],
-    hobbies: ["Volleyball", "Cinema", "Competitive Gaming"],
+    hobbies: ["Gym", "Movies", "Competitive Gaming"],
     goal: "Contributing to Open Source projects"
 };
 ```
